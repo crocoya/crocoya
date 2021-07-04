@@ -1,4 +1,21 @@
 ### Hi there 👋
+## I'm Yassine, a Full Stack Developer Junior ! 
+
+# I am currently training on technologies :
+• ReactJS
+• NodeJS
+• MySQL
+
+# Upstream, I also train on :
+• Angular
+• TypeScript
+• Firebase
+• Docker 
+
+# You can contact me on :
+☞ LinkedIn : https://www.linkedin.com/in/yassine-tababi/
+☞ Portfolio : https://www.crocoya.fr
+☞ E-mail : yassine.tababi@outlook.com
 
 <!--
 **crocoya/crocoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
