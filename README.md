@@ -12,9 +12,9 @@
 - Docker 
 
 ### 💬 You can contact me on :
-☞ LinkedIn : https://www.linkedin.com/in/yassine-tababi/
-☞ Portfolio : https://www.crocoya.fr
-☞ E-mail : yassine.tababi@outlook.com
+- LinkedIn : https://www.linkedin.com/in/yassine-tababi/
+- Portfolio : https://www.crocoya.fr
+- E-mail : yassine.tababi@outlook.com
 
 
 <!--
