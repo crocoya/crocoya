@@ -6,7 +6,7 @@
 - MySQL
 
 ### 🌱 Upstream, I also train on :
-- Angular
+- AngularJS
 - TypeScript
 - Firebase
 - Docker 
