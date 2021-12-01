@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yassine, a Full Stack Developer Junior ! 
+# Hi there 👋 I'm Yassine, a Front-End Developer ! 
 
 ### 🔭 I am currently training on technologies :
 - ReactJS
