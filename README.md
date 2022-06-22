@@ -2,6 +2,7 @@
 
 ### 🔭 I am currently training on technologies :
 ![React](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-282c34?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282c34?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-282c34?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-282c34?style=flat-square&logo=css3)
@@ -12,7 +13,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-282c34?style=flat-square&logo=gitlab)
 
 ### 🌱 Upstream, I also train on :
-![TypeScript](https://img.shields.io/badge/-TypeScript-282c34?style=flat-square&logo=typescript)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-282c34?style=flat-square&logo=graphql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-282c34?style=flat-square&logo=mongodb)
 
