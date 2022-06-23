@@ -23,21 +23,21 @@ I like making fun, interactive things with code and you can check out some of my
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Version Control  
+## Version Control  📊
 ![Git](https://img.shields.io/badge/-Git-282c34?style=flat-square&logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 
-## Education  
+## Education ✏️
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
 
-## Developer, Forums
+## Developer, Forums  🖥
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-## You can reach me here
+## You can reach me here  📞
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-tababi)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yassine.tababi@outlook.com)](mailto:yassine.tababi@outlook.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crocoya)
 
-## My Stats
+## My Stats  💎
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crocoya&hide=TeX&layout=compact)
