@@ -21,7 +21,7 @@ I like making fun, interactive things with code and you can check out some of my
 
 ## Version Control  📊
 ![Git](https://img.shields.io/badge/-Git-282c34?style=flat-square&logo=git)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+![Bash](https://img.shields.io/badge/-Bash-282c34?style=flat-square&logo=gnu-bash)
 
 ## Design  🌁
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
