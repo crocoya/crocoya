@@ -48,5 +48,5 @@ I like making fun, interactive things with code and you can check out some of my
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crocoya)
 
 ## My Stats 💎
-
+![](https://github-readme-stats.vercel.app/api?username=crocoya&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crocoya&hide=TeX&layout=compact)
