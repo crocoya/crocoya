@@ -44,5 +44,8 @@ I like making fun, interactive things with code and you can check out some of my
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crocoya&hide=TeX&layout=compact)
 
 Added the \`Mon 27 June 2022\`
+
 Last update on <#today_date>
+
+<#gabot_signing>
 `;
