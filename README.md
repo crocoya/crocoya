@@ -48,5 +48,5 @@ I like making fun, interactive things with code and you can check out some of my
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yassine.tababi@outlook.com)](mailto:yassine.tababi@outlook.com)
 
 ## My Stats 💎
-![](https://github-readme-stats.vercel.app/api?username=crocoya&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=crocoya&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=crocoya&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=crocoya&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
