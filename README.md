@@ -2,7 +2,7 @@
 
 ## Yassine Github Profile 💻
 
-My name is Yassine, I'm a Front-End Developer who's building different projects and always been motivated to constantly improve my skills and improve myself professionally.
+My name is Yassine, I'm a Full-Stack Developer who's building different projects and always been motivated to constantly improve my skills and improve myself professionally.
 
 I learn fast and can adapt quickly to teamwork. I specialize in JavasScript and creating projects with React environment (Gatsby, Next and soon Vite).
 
